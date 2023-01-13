@@ -33,3 +33,4 @@
 - Reforma Almudí
 - Aparcamientos disuasorios
 - Recinto Ferial
+- Ampliación muralla de Santa Eulalia
