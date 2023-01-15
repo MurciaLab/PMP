@@ -1,6 +1,6 @@
 ---
 title: "Medidores de calidad del aire"
-date: 2023-01-12T21:15:41+01:00
+date: 2023-01-13T20:50:43+01:00
 draft: false
 image: calidad-aire.jpg
 categories:
