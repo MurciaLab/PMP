@@ -1,4 +1,4 @@
-baseurl: https://anarkis.github.io/PMP
+baseurl: https://MurciaLab.github.io/PMP
 languageCode: es-es
 theme: hugo-theme-stack
 paginate: 5
