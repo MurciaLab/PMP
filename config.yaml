@@ -1,4 +1,4 @@
-baseurl: https://MurciaLab.github.io/PMP
+baseurl: http://proyectos.murcialab.org
 languageCode: es-es
 theme: hugo-theme-stack
 paginate: 5
@@ -8,7 +8,7 @@ languages:
     es:
         languageName: Español 
         title: PMP - Proyectos de Murcia
-        description: Estados de todos los proyectos presentados
+        description: Estados de todos los proyectos presentados por diferentes actores
         weight: 1
 
 # Change it to your Disqus shortname before using
