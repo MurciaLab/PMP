@@ -1,4 +1,4 @@
-baseurl: https://MurciaLab.github.io/PMP
+baseurl: http://proyectos.murcialab.org
 languageCode: es-es
 theme: hugo-theme-stack
 paginate: 5
